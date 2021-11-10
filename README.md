@@ -1,6 +1,7 @@
 My_no의 개인프로필
 =============
-![N|Solid](git.png)
+![git](https://user-images.githubusercontent.com/93500452/141118435-3a274f04-6cac-424c-b259-94be9f50a509.png)
+
 ## 컴퓨터 언어로 소통하고 싶은 컴린이<BR />
 
 ✍️ 제 이름은 김민호입니다.<BR />
