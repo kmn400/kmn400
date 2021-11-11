@@ -29,6 +29,7 @@ My_no의 개인프로필
 ![FLUTTER](https://img.shields.io/badge/-FLUTTER-skyblue)
 ![GIT](https://img.shields.io/badge/-GIT-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
+![CSS](https://img.shields.io/badge/-CSS-orange)
 3. 내가 만들어본 프로젝트
 4. 내가 참여한 프로젝트
 5. 목표로 하는 프로젝트 
