@@ -31,6 +31,7 @@ My_no의 개인프로필
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
 ![CSS](https://img.shields.io/badge/-CSS-orange)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen)
+![PHP](https://img.shields.io/badge/-PHP-pink
 3. 내가 만들어본 프로젝트
 4. 내가 참여한 프로젝트
 5. 목표로 하는 프로젝트 
