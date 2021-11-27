@@ -30,6 +30,7 @@ My_no의 개인프로필
 ![GIT](https://img.shields.io/badge/-GIT-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet)
 ![CSS](https://img.shields.io/badge/-CSS-orange)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen)
 ![PHP](https://img.shields.io/badge/-PHP-pink)
 ![jQuery](https://img.shields.io/badge/-jQuery-ff69b4)
