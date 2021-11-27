@@ -23,7 +23,7 @@ My_no의 개인프로필
 *****
 1. 내가 배운 기술들<BR />
 2. 내가 배울 기술들<BR />
-![JAVA](https://img.shields.io/badge/-JAVA-green)
+![JAVA](https://img.shields.io/badge/-JAVA-red)
 ![Dart](https://img.shields.io/badge/-DART-blue)
 ![Markdown](https://img.shields.io/badge/-MARKDOWN-silver)
 ![FLUTTER](https://img.shields.io/badge/-FLUTTER-skyblue)
